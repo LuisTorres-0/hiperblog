@@ -6,3 +6,4 @@ Nueva prueba para entender mejor como funciona gut hub
 Ahora me parece que ya entendi!!!
 Aver ahora..
 Creo que para que se refleje el cambieo en raw, solo tiene que pasar tiempo
+Todavia no estoy seguro, pruebo si funciona haciendo un commit
